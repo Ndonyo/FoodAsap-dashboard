@@ -1,5 +1,0 @@
-# FoodAsap-dashboard
-
-Ignore this file. It is meant to tell you that I actually did this project.
-
-Am Tomx.
